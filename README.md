@@ -15,5 +15,5 @@ Experience in enterprise application development with a focus on ERP systems and
 - **Algorithms_DS** — Data structures & algorithms implemented in Java.  
 - **Portfolio_Website** — Simple portfolio site (hosted via GitHub Pages).
  
-📫 Connect with me: [LinkedIn](https://linkedin.com/in/anmol-nankani-b24a84194) | anmolnankani26@gmail.com
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/anmolnankani) | anmolnankani26@gmail.com
  
